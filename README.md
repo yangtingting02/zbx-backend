@@ -1,9 +1,9 @@
-#ZBX,一个简易的zabbix管理系统的后端部分，前端请戳[zbx-frontend]()。
+##ZBX,一个简易的zabbix管理系统的后端部分，前端请戳[zbx-frontend](https://github.com/yangtingting02/zbx-app)。
 
 ###运行
 - 获取代码
 ```
-clone
+git clone git@github.com:yangtingting02/zbx-backend.git
 ```
 - 安装依赖
 ```
